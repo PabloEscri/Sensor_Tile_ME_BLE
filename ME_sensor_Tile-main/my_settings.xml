@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="s,S">
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Drivers/BSP_mio/lps22hb</includepath>
+
+</language>
+<language name="C Source File">
+<includepath>Core/Inc</includepath>
+<includepath>Drivers/STM32L4xx_HAL_Driver/Inc</includepath>
+<includepath>Drivers/STM32L4xx_HAL_Driver/Inc/Legacy</includepath>
+<includepath>Drivers/CMSIS/Device/ST/STM32L4xx/Include</includepath>
+<includepath>Drivers/CMSIS/Include</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Drivers/BSP_mio/lps22hb</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Drivers/BSP_mio</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Drivers/BSP_mio/Env_sensors_api</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Drivers/BSP_mio/motion_sensors</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Drivers/BSP_mio/lsm6dsm</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Drivers/BSP_mio/lsm303agr</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/ST/BLE_APP</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/ST/BlueNRG-MS</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/ST/BlueNRG-MS/hci/controller</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/ST/BlueNRG-MS/hci/hci_tl_patterns</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/ST/BlueNRG-MS/hci/hci_tl_patterns/Basic</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/ST/BlueNRG-MS/includes</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/ST</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/ST/BlueNRG-MS/utils</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/BLE_APP</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/BLE</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/FatFs/src</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/FatFs/src/option</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/FatFs/src/drivers</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/FatFs/src/sd_application</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/RTC_APP</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/JSON</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/FreeRTOS</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/FreeRTOS/Source/CMSIS_RTOS</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/FreeRTOS/Source/include</includepath>
+<includepath workspace_path="true">/SENSOR_TILE_EXAMP/Middlewares/FreeRTOS/Source/portable/GCC/ARM_CM4F</includepath>
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="s,S">
+
+</language>
+<language name="C Source File">
+<macro>
+<name>USE_HAL_DRIVER</name><value/>
+</macro>
+<macro>
+<name>STM32L476xx</name><value/>
+</macro>
+<macro>
+<name>DEBUG</name><value/>
+</macro>
+
+</language>
+<language name="Object File">
+
+</language>
+</section>
+</cdtprojectproperties>

@@ -1,0 +1,1 @@
+Esto es un proyecto completo en el que todo lo que se envía por BLE se escribe en una SD.
